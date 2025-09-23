@@ -7,3 +7,5 @@
 [Неделя 1](timetable_1w.md)
 [Неделя 2](timetable_2w.md)
 [Неделя 3](timetable_3w.md)
+
+[картинка](images.jpg)
