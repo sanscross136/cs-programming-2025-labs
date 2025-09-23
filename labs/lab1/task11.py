@@ -1,0 +1,5 @@
+base_string = str(input())
+new_strings = base_string.split(',')
+print(new_strings)
+calc = (float(new_strings[0])+float(new_strings[2]))/float(new_strings[1])
+print(f'Результат вычисления: {calc}')

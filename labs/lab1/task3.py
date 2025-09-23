@@ -1,0 +1,5 @@
+var1 = int(342)
+var2 = float(56.2)
+var3 = str('43')
+result_var = float(var1)+var2+float(var3)
+print(result_var)
