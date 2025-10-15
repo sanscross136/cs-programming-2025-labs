@@ -18,8 +18,7 @@ def errors_check(value):
     else: return True
 
 def calculate_age(value):
-    age_is_correct = errors_check(value)
-    if(age_is_correct == False):
+    if(errors_check(value) == False):
         return
     if(int(value) >= 2):
         print(21 + (int(value) - 2) * 4)
