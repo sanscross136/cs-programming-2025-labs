@@ -26,5 +26,3 @@ def calculate_age(value):
 
 dog_age = input('Введите возраст собаки (В годах): ')
 calculate_age(dog_age)
-    
-    
