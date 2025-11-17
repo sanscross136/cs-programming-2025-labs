@@ -44,5 +44,3 @@ if(checks_passed != 4):
         print(f'Пароль ненадёжный: отсутсвуют {errors[0]}, {errors[1]}, {errors[2]} и {errors[3]}')
 else:
     print('Пароль надёжный')
-
-    
