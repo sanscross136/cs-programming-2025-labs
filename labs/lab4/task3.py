@@ -1,12 +1,5 @@
-def is_integer(value):
-    try:
-        int(value)
-        return True
-    except ValueError:
-        return False
-    
 def errors_check(value):
-    if(is_integer(value) == False):
+    if(value.isdigit() == False):
         print('Ошибка: возраст должен быть числом')
         return False
     elif(int(value) < 1):
