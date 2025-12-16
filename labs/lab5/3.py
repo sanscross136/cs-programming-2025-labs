@@ -2,7 +2,7 @@ import random
 
 list_of_numbers = []
 
-for i in range(random.randint(0,1000)):
+for i in range(random.randint(1,1000)):
     list_of_numbers.append(random.randint(0,10000))
 
 list_len = len(list_of_numbers)
