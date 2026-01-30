@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Rpg_Game/1.0.0": {
+        "runtime": {
+          "Rpg_Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rpg_Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

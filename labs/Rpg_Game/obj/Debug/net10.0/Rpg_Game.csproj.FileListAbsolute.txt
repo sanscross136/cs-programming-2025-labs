@@ -1,0 +1,29 @@
+E:/vvsu/vvsu it/sans finale/Rpg_Game/bin/Debug/net10.0/Rpg_Game.exe
+E:/vvsu/vvsu it/sans finale/Rpg_Game/bin/Debug/net10.0/Rpg_Game.deps.json
+E:/vvsu/vvsu it/sans finale/Rpg_Game/bin/Debug/net10.0/Rpg_Game.runtimeconfig.json
+E:/vvsu/vvsu it/sans finale/Rpg_Game/bin/Debug/net10.0/Rpg_Game.dll
+E:/vvsu/vvsu it/sans finale/Rpg_Game/bin/Debug/net10.0/Rpg_Game.pdb
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.GeneratedMSBuildEditorConfig.editorconfig
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.AssemblyInfoInputs.cache
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.AssemblyInfo.cs
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.csproj.CoreCompileInputs.cache
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.dll
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/refint/Rpg_Game.dll
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.pdb
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/Rpg_Game.genruntimeconfig.cache
+E:/vvsu/vvsu it/sans finale/Rpg_Game/obj/Debug/net10.0/ref/Rpg_Game.dll
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.AssemblyInfoInputs.cache
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.AssemblyInfo.cs
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.csproj.CoreCompileInputs.cache
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.sourcelink.json
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.dll
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/refint/Rpg_Game.dll
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.pdb
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/bin/Debug/net10.0/Rpg_Game
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/bin/Debug/net10.0/Rpg_Game.deps.json
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/bin/Debug/net10.0/Rpg_Game.runtimeconfig.json
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/bin/Debug/net10.0/Rpg_Game.dll
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/bin/Debug/net10.0/Rpg_Game.pdb
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/Rpg_Game.genruntimeconfig.cache
+/home/sanscross/vvgu/IT/cs-programming-2025-labs/labs/Rpg_Game/obj/Debug/net10.0/ref/Rpg_Game.dll
